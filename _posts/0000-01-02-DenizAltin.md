@@ -1,6 +1,1 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+Originality is the art of concealing your source.
